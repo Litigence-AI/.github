@@ -7,10 +7,10 @@ Litigence AI is an AI-driven legal information platform designed to empower unde
 Here’s a glimpse of Litigence AI in action! 📸  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/a6218986-3100-4be7-b474-83f7cdd788de" alt="Screenshot 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/9c1fb038-e7ef-4cc1-ad22-fe0cc16d1993" alt="Screenshot 2" width="45%">
-  <img src="https://github.com/user-attachments/assets/d884efcc-41b5-4ce9-8ae2-376bf35ee2aa" alt="Screenshot 3" width="45%">
-  <img src="https://github.com/user-attachments/assets/50746671-99c9-4bb3-b4f4-b1d9a0161d8a" alt="Screenshot 4" width="45%">
+  <img src="https://github.com/user-attachments/assets/a6218986-3100-4be7-b474-83f7cdd788de" alt="Screenshot 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/9c1fb038-e7ef-4cc1-ad22-fe0cc16d1993" alt="Screenshot 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/d884efcc-41b5-4ce9-8ae2-376bf35ee2aa" alt="Screenshot 3" width="30%">
+  <img src="https://github.com/user-attachments/assets/50746671-99c9-4bb3-b4f4-b1d9a0161d8a" alt="Screenshot 4" width="30%">
 </div>
 
 ## Founder Journey
