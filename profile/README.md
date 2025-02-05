@@ -5,12 +5,13 @@ Litigence AI is an AI-driven legal information platform designed to empower unde
 
 ## Screenshots
 Here’s a glimpse of Litigence AI in action! 📸  
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_bgebu13rvt5wr3v6fm97](https://github.com/user-attachments/assets/a6218986-3100-4be7-b474-83f7cdd788de)
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_fr7by75nouej20ebpchu](https://github.com/user-attachments/assets/9c1fb038-e7ef-4cc1-ad22-fe0cc16d1993)
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_zd1j1fg0jgvt7rmql5g0](https://github.com/user-attachments/assets/d884efcc-41b5-4ce9-8ae2-376bf35ee2aa)
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_kwonv413ttz97se78lkh](https://github.com/user-attachments/assets/50746671-99c9-4bb3-b4f4-b1d9a0161d8a)
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/a6218986-3100-4be7-b474-83f7cdd788de" alt="Screenshot 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/9c1fb038-e7ef-4cc1-ad22-fe0cc16d1993" alt="Screenshot 2" width="45%">
+  <img src="https://github.com/user-attachments/assets/d884efcc-41b5-4ce9-8ae2-376bf35ee2aa" alt="Screenshot 3" width="45%">
+  <img src="https://github.com/user-attachments/assets/50746671-99c9-4bb3-b4f4-b1d9a0161d8a" alt="Screenshot 4" width="45%">
+</div>
 
 ## Founder Journey
 Growing up in a community where legal rights were often misunderstood or inaccessible, the founder witnessed firsthand how issues like student abuse and child mistreatment frequently went unreported. This personal experience spurred the creation of Litigence AI, with the aim of providing easy access to legal information that can drive awareness, safety, and empowerment in underserved communities.
