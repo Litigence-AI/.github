@@ -54,7 +54,9 @@ Growing up in a community where legal rights were often misunderstood or inacces
 3. For collaboration, feedback, or inquiries, reach out through our official contact channels.
 
 ## License
-*(Placeholder: Licensing details will be provided in a future update.)*
+This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
-For more details, updates, or collaboration opportunities, please visit our GitHub profile or get in touch through our official communication channels.
+For any questions or feedback, please reach out to:
+- Email: karthidreamr@gmail.com
+- Twitter: [@KarthiDreamr](https://x.com/KarthiDreamr)
